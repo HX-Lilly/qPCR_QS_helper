@@ -6,16 +6,19 @@
     "entrypoint": "app.py"
   },
   "python": {
-    "version": "3.13.2",
+    "version": "3.11.9",
     "package_manager": {
       "name": "pip",
-      "version": "24.3.1",
+      "version": "24.0",
       "package_file": "requirements.txt"
     }
   },
   "files": {
     "requirements.txt": {
       "checksum": "5ba3ede051ccf34c2995842134f92a60"
+    },
+    ".vscode/settings.json": {
+      "checksum": "893747d20e60d5d308ab7c3b8518f7f8"
     },
     "README.md": {
       "checksum": "b6a02c27efc94cb57941ecfb8769f5a7"
